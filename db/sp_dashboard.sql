@@ -62,10 +62,10 @@ CREATE TABLE `db_pictures` (
 --
 
 INSERT INTO `db_pictures` (`id`, `url_image`, `title`, `description`, `orden`) VALUES
-(1, '/thematrix/views/assets/images/aoj_profile_wb.jpg', 'Perfect Balancede1', '1ArchitectUI is like a dream. Some think its too good to be true! Extensive collection of unified React Boostrap Components and Elements.', 1),
-(2, '/thematrix/views/assets/images/cfu_profile_9k.jpg', 'Scalable, Modular, Consistent2', '2Easily exclude the components you dont require. Lightweight, consistent Bootstrap based styles across all elements and components.', 2),
-(3, '/thematrix/views/assets/images/3ir_profile_ck.jpg', 'Complex, but lightweight3', '3We ve included a lot of components that cover almost all use cases for any type of application.', 3),
-(5, '/thematrix/views/assets/images/logo-inverse.png', '', '', 4);
+(1, '/views/assets/images/aoj_profile_wb.jpg', 'Perfect Balancede1', '1ArchitectUI is like a dream. Some think its too good to be true! Extensive collection of unified React Boostrap Components and Elements.', 1),
+(2, '/views/assets/images/cfu_profile_9k.jpg', 'Scalable, Modular, Consistent2', '2Easily exclude the components you dont require. Lightweight, consistent Bootstrap based styles across all elements and components.', 2),
+(3, '/views/assets/images/3ir_profile_ck.jpg', 'Complex, but lightweight3', '3We ve included a lot of components that cover almost all use cases for any type of application.', 3),
+(5, '/views/assets/images/logo-inverse.png', '', '', 4);
 
 -- --------------------------------------------------------
 
